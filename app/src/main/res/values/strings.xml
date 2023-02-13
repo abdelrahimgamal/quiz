@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">aishari_oblig1</string>
+
+
+    <string-array name="converters">
+        <item>Ounce</item>
+        <item>Cup</item>
+        <item>Gallon</item>
+        <item>Hogshead</item>
+    </string-array>
+</resources>
